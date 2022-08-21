@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Massanger</string>
+    <string name="buttonSend">Отправить</string>
+    <string name="HintEnterMassage">Введите сообщение</string>
+    <string name="choosen_name">"Какое приложение вы хотите выбрать?"</string>
+</resources>
